@@ -34,13 +34,13 @@ Over the course of FY2017 through FY2018, green energy stocks as a sector group 
 
 #### **VBA CODE PERFORMANCE**
 
-**Original 2017**             |  **Refactored 2017**
+**Original 2017**             |  **Original 2018**
 :-------------------------:|:-------------------------:
 ![](https://github.com/Felrashed/stock-analysis/blob/main/Resources/Orginal_Clock_Speed_cropped_2017.PNG)  |  ![](https://github.com/Felrashed/stock-analysis/blob/main/Resources/Orginal_Clock_Speed_cropped_2018.png)
 
 - Here we can see that the refactored 2017 code performed at a significantly faster speed than it's original counterpart
 
-**Original 2018**             |  **Refactored 2018**
+**Refactored 2017**             |  **Refactored 2018**
 :-------------------------:|:-------------------------:
 ![](https://github.com/Felrashed/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png.PNG)  |  ![](https://github.com/Felrashed/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png.PNG)
 
